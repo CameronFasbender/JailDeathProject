@@ -1,0 +1,14 @@
+{
+  "name": "3a6ae9af14ae909f",
+  "main": "3a6ae9af14ae909f@1631.js",
+  "version": "1631.0.0",
+  "homepage": "https://observablehq.com/d/3a6ae9af14ae909f",
+  "author": {
+    "name": "Leaves Fork",
+    "url": "https://observablehq.com/@leavessuck"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
